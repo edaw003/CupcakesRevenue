@@ -14,7 +14,7 @@ My project will show a menu that will ask the user to select an option , on what
 
 [e] [Basic cupcakes Revenue vs Delux cupcakes revenue.]
 
-Option [a], [b] and [c], have suboptions, where the user can select the data he wants to see (ex: yearly total revenue, yearly basic cupcakes revenue, yearly deluxe cupcakes revenue)
+Option [a], [b] and [c], have sub-options, where the user can select the data he wants to see (ex: yearly total revenue, yearly basic cupcakes revenue, yearly deluxe cupcakes revenue)
 
-Option [d], is similar to the previous options (having suboptions ), only that the period will be selected by the user by entering a start date and a stop date. And the revenue will be represented for each day.
-Option [e], will also ask the user for a start/stop date and in the bar chart, the revenue from basic cupcakes and delux cupcakes are shown side by side, for each day of the week in the mentioned period. For better comparison. 
+Option [d], is similar to the previous options (having sub-options ), only that period will be selected by the user by entering a start date and a stop date. And the revenue will be represented for each day.
+Option [e], will also ask the user for a start/stop date and in the bar chart the revenue from basic cupcakes and delux cupcakes are shown side by side, for each day of the week in the mentioned period. For better comparison. 
